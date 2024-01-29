@@ -21,6 +21,7 @@ Project developed on Rocketseat's Explorer course
 
 The development of this project aims to learn the following concepts:
 
+- Light and dark mode
 - CSS :not
 - ES6 Modules
 - DOM Manipulation
